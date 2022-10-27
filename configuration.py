@@ -1,0 +1,8 @@
+companyName = "FAIRMONT"
+missionStatement = "The mission statment for fairmont is ....."
+siteName = "FAIRMONT SITE"
+headerText = "Text for the header here"
+bodyText = "Text for the body here"
+bodyTextSpanish = "En espanol aqui"
+donateText = "Please donate , this helps the community ...."
+websiteEmail = "....."
